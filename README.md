@@ -46,6 +46,25 @@ h. Create an Azure Container Instance (ACI) service.
 
 i. Test the ACI service.
 
+
+## Passing Project
+
+### What is a fully functional example look like?
+
+* The project is fully operational via step 6.
+
+### What does a student need to pass it?
+
+* Project using the steps described above
+* Project has two-page README explaining the business problem, the steps used to solve the problem and the incremental deployment steps.
+* One to five minute screencast of project showing it working in production
+* Model is updated and new model is deployed through MLOps
+* Source code for project is in Github.
+
+
+
+
+
 ## Helpful Key Azure Commands
 
 What Azure Subscriptions accounts do I have?
