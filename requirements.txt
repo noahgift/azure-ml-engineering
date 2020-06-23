@@ -1,2 +1,4 @@
-azurml
+azureml-sdk[automl]
+azureml-opendatasets
+azureml-widgets
 pandas
