@@ -55,8 +55,13 @@ i. Test the ACI service.
 
 ### What does a student need to pass it?
 
+* Student will do an AutoML end to end solution
+* Student will also show how to use the API
+
 * Project using the steps described above
 * Project has two-page README explaining the business problem, the steps used to solve the problem and the incremental deployment steps.
+[Provide Starter File Template in README: i.e. ## Section One:  Ingestion]
+
 * One to five minute screencast of project showing it working in production
 * Model is updated and new model is deployed through MLOps
 * Source code for project is in Github.
