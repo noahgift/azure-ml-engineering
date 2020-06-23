@@ -22,7 +22,21 @@
 
 ![Screen Shot 2020-06-23 at 3 38 00 PM](https://user-images.githubusercontent.com/58792/85451163-91c3ab00-b567-11ea-8786-27b37930ace1.png)
 
+5.  Edit in Jupyter
 
+![Screen Shot 2020-06-23 at 3 42 30 PM](https://user-images.githubusercontent.com/58792/85451727-2d551b80-b568-11ea-8ea1-98454e1eaa11.png)
+
+6.  Deploy ML Model into production by running this [notebook in Azure Machine Learning](https://github.com/noahgift/azure-ml-engineering/blob/master/auto_ml_classification_bank_marketing_all_features.ipynb)
+
+a. Create an experiment using an existing workspace.
+b. Configure AutoML using AutoMLConfig.
+c. Train the model using local compute with ONNX compatible config on.
+d. Explore the results, featurization transparency options and save the ONNX model
+e. Inference with the ONNX model.
+f. Register the model.
+g. Create a container image.
+h. Create an Azure Container Instance (ACI) service.
+i. Test the ACI service.
 
 ## Helpful Key Azure Commands
 
