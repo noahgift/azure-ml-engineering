@@ -29,13 +29,21 @@
 6.  Deploy ML Model into production by running this [notebook in Azure Machine Learning](https://github.com/noahgift/azure-ml-engineering/blob/master/auto_ml_classification_bank_marketing_all_features.ipynb)
 
 a. Create an experiment using an existing workspace.
+
 b. Configure AutoML using AutoMLConfig.
+
 c. Train the model using local compute with ONNX compatible config on.
+
 d. Explore the results, featurization transparency options and save the ONNX model
+
 e. Inference with the ONNX model.
+
 f. Register the model.
+
 g. Create a container image.
+
 h. Create an Azure Container Instance (ACI) service.
+
 i. Test the ACI service.
 
 ## Helpful Key Azure Commands
