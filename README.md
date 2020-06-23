@@ -1,6 +1,12 @@
 # azure-ml-engineering
 
 
+## Key Azure Commands
+
+What Azure accounts do I have?
+
+`az account list`
+
 
 ## References
 
