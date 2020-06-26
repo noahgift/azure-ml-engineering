@@ -1,7 +1,13 @@
 ## Sections One
 
+## Azure Setup
 
-<!this is Learning Object blah>
+### Overview
+
+* Task list
+- did you complete this?
+
+
 
 ## Section Two
 
